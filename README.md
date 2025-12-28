@@ -30,7 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developed a structured console-based application for student registration, course enrollment, grade management, and academic report generation.
 
 \-Football Club Ranking System (Excel)
-
+.
 Designed a ranking system using match statistics such as goals scored, goals conceded, and total points, with automated calculations and sorting.
 
 \-Smart Gate System (Arduino)
