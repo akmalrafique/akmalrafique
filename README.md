@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-* 🌍  I'm based in Shah Alam,Malaysia
+* 🌍  I'm based in Shah Alam,Malaysia.
 * ✉️  You can contact me at [akmalrafique123456@gmail.com](mailto:akmalrafique123456@gmail.com)
 
 # 💻 Tech Stack:
