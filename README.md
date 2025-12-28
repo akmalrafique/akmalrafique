@@ -34,7 +34,7 @@ Developed a structured console-based application for student registration, cours
 Designed a ranking system using match statistics such as goals scored, goals conceded, and total points, with automated calculations and sorting.
 
 \-Smart Gate System (Arduino)
-
+.
 Built an automated gate system using Arduino that detects approaching objects and controls gate opening and closing using sensors and a motor, improving security and convenience.
 
 \-Car Loan Calculator (C++)
