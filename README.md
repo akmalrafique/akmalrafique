@@ -38,5 +38,5 @@ Designed a ranking system using match statistics such as goals scored, goals con
 Built an automated gate system using Arduino that detects approaching objects and controls gate opening and closing using sensors and a motor, improving security and convenience.
 
 \-Car Loan Calculator (C++)
-
+.
 Created a loan calculator application to estimate monthly installments based on car price, down payment, interest rate, and repayment period using simple interest calculations.
