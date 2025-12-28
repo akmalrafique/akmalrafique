@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 📂 Academic & Personal Projects
 
 \-University Course Management System (C++)
-
+.
 Developed a structured console-based application for student registration, course enrollment, grade management, and academic report generation.
 .
 \-Football Club Ranking System (Excel)
