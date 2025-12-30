@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💡 Interested in data systems, software development, and digital solutions
 
 📚 Currently learning C++, Python, and GitHub
-
+.
 🚀 Aiming to build practical projects during my university years
 .
 .
