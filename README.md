@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🚀 Aiming to build practical projects during my university years
 .
-
+.
 .
 * 🌍  I'm based in Shah Alam,Malaysia
 * ✉️  You can contact me at [akmalrafique123456@gmail.com](mailto:akmalrafique123456@gmail.com)
