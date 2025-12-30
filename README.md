@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💡 Interested in data systems, software development, and digital solutions
 
 📚 Currently learning C++, Python, and GitHub
-.
+
 🚀 Aiming to build practical projects during my university years
-.
-.
-.
+
+
+
 * 🌍  I'm based in Shah Alam,Malaysia
 * ✉️  You can contact me at [akmalrafique123456@gmail.com](mailto:akmalrafique123456@gmail.com)
 
@@ -26,17 +26,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 📂 Academic & Personal Projects
 
 \-University Course Management System (C++)
-.
+
 Developed a structured console-based application for student registration, course enrollment, grade management, and academic report generation.
-.
+
 \-Football Club Ranking System (Excel)
-.
+
 Designed a ranking system using match statistics such as goals scored, goals conceded, and total points, with automated calculations and sorting.
 
 \-Smart Gate System (Arduino)
-.
+
 Built an automated gate system using Arduino that detects approaching objects and controls gate opening and closing using sensors and a motor, improving security and convenience.
 
 \-Car Loan Calculator (C++)
-..
+
 Created a loan calculator application to estimate monthly installments based on car price, down payment, interest rate, and repayment period using simple interest calculations.
+.
