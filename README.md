@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&letterSpacing=4px&color=00C4CC&center=true&vCenter=true&width=900&lines=AKMAL+RAFIQUE+BIN+AHMAD+RAPHAIE" alt="Typing SVG" />
 </p>
-========================================================================================================================================================
+========================================================================================================================================================================================
 
 🎓 Data Engineering student at Universiti Teknologi Malaysia (UTM)
 
