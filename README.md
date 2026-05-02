@@ -49,6 +49,7 @@
 #### **University Level**
 * **Crew** - Sukan Sains Komputer 2025 (SUSKOM'25)
 * **Participant** - UNBOCS'2025
+* **Participant** -Huawei Connected Campus 2026
 
 #### **Faculty & Technical Level**
 * **Participant** - Industry Talk: Project Management and System Development (18 Dec 2025)
