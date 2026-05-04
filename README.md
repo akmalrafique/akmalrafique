@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,r,arduino,vscode,github,linkedin&theme=dark" alt="Akmal's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,r,visualstudio,arduino,vscode,github,linkedin&theme=dark" alt="Akmal's Tech Stack" />
 </p>
 
 <br/>
