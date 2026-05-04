@@ -5,21 +5,13 @@
 
 
 </p>
-
 🎓 Data Engineering student at Universiti Teknologi Malaysia (UTM)
+</p>
+🌍  I'm based in Shah Alam,Malaysia
+</p>
+✉️  You can contact me at [akmalrafique123456@gmail.com](mailto:akmalrafique123456@gmail.com)
 
-💡 Interested in data systems, software development, and digital solutions
-
-📚 Currently learning C++, Python, and GitHub
-
-🚀 Aiming to build practical projects during my university years
-
-
-
-* 🌍  I'm based in Shah Alam,Malaysia
-* ✉️  You can contact me at [akmalrafique123456@gmail.com](mailto:akmalrafique123456@gmail.com)
-
-# 💻 Tech Stack:
+💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Deeeds](https://img.shields.io/badge/Deeeds-FF5733?style=for-the-badge&logo=deezer&logoColor=white)
 
 ## 🌐 Socials:
