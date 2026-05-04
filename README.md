@@ -29,18 +29,13 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=
-akmalrafique&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=
-akmalrafique&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  <a href="https://github.com/akmalrafique">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmalrafique&show_icons=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akmalrafique&layout=compact&langs_count=8&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff"/>
+  </a>
 </p>
 
 ## 🎓 Education
