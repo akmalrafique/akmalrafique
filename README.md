@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&letterSpacing=4px&color=00C4CC&center=true&vCenter=true&width=900&lines=AKMAL+RAFIQUE+BIN+AHMAD+RAPHAIE" alt="Typing SVG" />
+  [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>]
 </p>
 ========================================================================================================================================================================================
 
