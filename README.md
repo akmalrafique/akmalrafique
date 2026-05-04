@@ -4,12 +4,8 @@
   <h3>🎓 Data Engineering Student @ Universiti Teknologi Malaysia (UTM)</h3>
   <p>🌍 Based in Shah Alam, Malaysia &nbsp;|&nbsp; ✉️ <a href="mailto:akmalrafique123456@gmail.com">akmalrafique123456@gmail.com</a></p>
 
-  <a href="https://www.github.com/akmalrafique" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/akmalrafique" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/akmalrafique" target="_blank"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge" alt="LinkedIn" /></a> &nbsp;&nbsp; <a href="mailto:akmalrafique123456@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
   </a>
 </div>
 
