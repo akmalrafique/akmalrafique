@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<img width="800" height="361" alt="githubgif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/73eff39f-fab9-47be-b408-0d81135ed4e2" />
+<img width="798" height="284" alt="githubgif-ezgif com-crop" src="https://github.com/user-attachments/assets/607d2180-28c1-458e-b367-0869a182c050" />
 
 
 </p>
