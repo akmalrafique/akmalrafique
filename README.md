@@ -69,4 +69,4 @@
 * **Participant** - Industry Talk: PPG *(20 Nov 2025)*
 * **Participant** - Industry Visit to UTM Digital *(28 Oct 2025)*
 * **Participant** - Industry Visit: Etiqa Iskandar Puteri Johor *(15 Jan 2026)*
-* **Participant** - Student Enhancement SECP (Data Engineering) Program 2025.
+* **Participant** - Student Enhancement SECP (Data Engineering) Program 2025
