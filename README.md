@@ -46,7 +46,9 @@
 
 **Universiti Teknologi MARA (UiTM)**
 > **Foundation in Engineering**
-> * **CGPA:** 3.90 | **MUET:** Band 4.5
+> * **UPU GPA:** 4.00
+> * **UITM GPA:** 3.90
+> * **MUET:** Band 4.5
 
 **SMK Setia Alam**
 > **SPM Results:** 1A+, 3A, 4A-, 1B+
